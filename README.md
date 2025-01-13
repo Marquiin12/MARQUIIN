@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marquiin o mais lindo</title>
+</head>
+<body>
+    <h1>Só pra vcs n ficar com sdds de mim</h1>
+    <p>Logo logo estou de volta bb</p>
+    <img src="file:///C:/Users/marqu/OneDrive/Imagens/teteu.jfif" alt="">
+</body>
+</html>
